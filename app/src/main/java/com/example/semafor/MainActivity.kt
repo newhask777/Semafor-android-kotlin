@@ -64,6 +64,6 @@ class MainActivity : AppCompatActivity() {
                 if (counter == 3) counter = 0
             }
 
-        }, 1000)
+        }, 0,1000)
     }
 }
