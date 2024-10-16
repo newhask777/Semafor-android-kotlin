@@ -50,6 +50,7 @@ class MainActivity : AppCompatActivity() {
             view.setImageResource(R.drawable.green)
             timer?.cancel()
             is_run = false
+            counter = 0
         }
 
     }
